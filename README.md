@@ -8,4 +8,4 @@ I coded this long before when I just started to learn the basics of HTML and mad
 
 ## My Inspiration
 
-My Facebook friend, now like my own brother, **Murat** is my inspiration for this my coding life.
+My Facebook friend, now like my own brother, **Murat** is my inspiration for my coding life.
